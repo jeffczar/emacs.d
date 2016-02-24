@@ -1,0 +1,30 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("cljobs"
+ (filename . "~/projects/web/cljobs/build.boot")
+ (front-context-string . "(set-env!\n :sour")
+ (rear-context-string)
+ (position . 1))
+("quests"
+ (filename . "~/projects/web/brave-clojure/quests/")
+ (front-context-string . ".git\n  -rw-r--r-")
+ (rear-context-string . "06 Jan 12 19:21 ")
+ (position . 258))
+("geir"
+ (filename . "~/projects/web/adzerk/geir/build.boot")
+ (front-context-string . "(merge-env!  \n  ")
+ (rear-context-string)
+ (position . 1))
+("jobsearch"
+ (filename . "~/projects/web/jobsearch/build.boot")
+ (front-context-string . "(set-env!\n :sour")
+ (rear-context-string)
+ (position . 1))
+("projects.org"
+ (filename . "~/Dropbox/org-life/projects.org")
+ (front-context-string . "* Grateful Place")
+ (rear-context-string)
+ (position . 1))
+)
